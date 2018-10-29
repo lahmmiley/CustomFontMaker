@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<font>
+  <info face="Arial" size="32" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="1,1" outline="0"/>
+  <common lineHeight="32" base="26" scaleW="256" scaleH="256" pages="1" packed="0" alphaChnl="1" redChnl="0" greenChnl="0" blueChnl="0"/>
+  <pages>
+    <page id="0" file="fighttime_0.tga" />
+  </pages>
+  <chars count="10">
+    <char id="48" x="114" y="0" width="55" height="75" xoffset="0" yoffset="0" xadvance="55" page="0" chnl="15" />
+    <char id="49" x="51" y="152" width="41" height="75" xoffset="0" yoffset="0" xadvance="41" page="0" chnl="15" />
+    <char id="50" x="0" y="0" width="56" height="75" xoffset="0" yoffset="0" xadvance="56" page="0" chnl="15" />
+    <char id="51" x="57" y="0" width="56" height="75" xoffset="0" yoffset="0" xadvance="56" page="0" chnl="15" />
+    <char id="52" x="170" y="0" width="55" height="75" xoffset="0" yoffset="0" xadvance="55" page="0" chnl="15" />
+    <char id="53" x="0" y="76" width="55" height="75" xoffset="0" yoffset="0" xadvance="55" page="0" chnl="15" />
+    <char id="54" x="166" y="76" width="52" height="75" xoffset="0" yoffset="0" xadvance="52" page="0" chnl="15" />
+    <char id="55" x="0" y="152" width="50" height="75" xoffset="0" yoffset="0" xadvance="50" page="0" chnl="15" />
+    <char id="56" x="56" y="76" width="55" height="75" xoffset="0" yoffset="0" xadvance="55" page="0" chnl="15" />
+    <char id="57" x="112" y="76" width="53" height="75" xoffset="0" yoffset="0" xadvance="53" page="0" chnl="15" />
+  </chars>
+</font>
