@@ -5,7 +5,7 @@
   <pages>
     <page id="0" file="exp_0.tga" />
   </pages>
-  <chars count="14">
+  <chars count="15">
     <char id="40" x="102" y="25" width="10" height="24" xoffset="0" yoffset="0" xadvance="10" page="0" chnl="15" />
     <char id="41" x="113" y="25" width="10" height="24" xoffset="0" yoffset="0" xadvance="10" page="0" chnl="15" />
     <char id="43" x="45" y="0" width="17" height="24" xoffset="0" yoffset="0" xadvance="17" page="0" chnl="15" />
@@ -20,5 +20,6 @@
     <char id="56" x="68" y="25" width="16" height="24" xoffset="0" yoffset="0" xadvance="16" page="0" chnl="15" />
     <char id="57" x="85" y="25" width="16" height="24" xoffset="0" yoffset="0" xadvance="16" page="0" chnl="15" />
     <char id="65" x="0" y="0" width="44" height="24" xoffset="0" yoffset="0" xadvance="44" page="0" chnl="15" />
+    <char id="1898" x="0" y="50" width="15" height="22" xoffset="0" yoffset="4" xadvance="14" page="0" chnl="15" />
   </chars>
 </font>

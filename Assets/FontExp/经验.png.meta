@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: a8c342b9dc4b34fca8c1b97699d47eb8
-timeCreated: 1534178532
+guid: b72b4df7608cb884286856f832c518ee
+timeCreated: 1541485263
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
@@ -30,11 +30,11 @@ TextureImporter:
     filterMode: -1
     aniso: -1
     mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
+    wrapMode: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -44,7 +44,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
@@ -53,23 +53,7 @@ TextureImporter:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-  - buildTarget: Standalone
-    maxTextureSize: 2048
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-  - buildTarget: iPhone
-    maxTextureSize: 2048
-    textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
